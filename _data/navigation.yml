@@ -1,0 +1,39 @@
+- title: Home
+  url: /home/
+- title: Astrid
+  url: /astrid/
+- title: Davis Counseling
+  url: /counseling/
+  sublinks:
+    - title: Wat is Davis Counseling
+      url: "/counseling/#watisdaviscounseling"
+    - title: Ron Davis
+      url: "/counseling/#rondavis"
+    - title: Uitgangspunten van de Davis-Methodes
+      url: "/counseling/#uitgangspuntenvandedavismethodes"
+    - title: Davis-technieken
+      url: "/counseling/#davistechnieken"
+    - title: Van desoriëntatie naar oriëntatie
+      url: "/counseling/#vandesorientatienaarorientatie"
+- title: Dyslexie
+  url: /dyslexie/
+  sublinks:
+    - title: Algemene kenmerken
+      url: "/dyslexie/#algemenekenmerken"
+    - title: Programma counseling
+      url: "/dyslexie/#programmacounseling"
+    - title: Uitgangspunten van de Davis-Methodes
+      url: "/dyslexie/#uitgangspuntenvandedavismethodes"
+    - title: Davis-technieken
+      url: "/dyslexie/#davistechnieken"
+    - title: Van desoriëntatie naar oriëntatie
+      url: "/dyslexie/#vandesorientatienaarorientatie"
+- title: Dyscalculie
+  url: /dyscalculie/
+- title: AD(H)D
+  url: /adhd/
+- title: Ervaringen
+  url: /ervaringen/
+- title: Links
+  url: /links/
+
