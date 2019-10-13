@@ -26,7 +26,7 @@ Waar de snelle lezers en rekenaars iets leuks mogen gaan doen, wordt van jou ver
 
 De frustratie bouwt zich op bij je ouders, bij je juf of meester, maar vooral ook bij jezelf.
 
-<img class="d-none  d-sm-block" style="width: 150%;" src="../glijbaan.svg">
+<img class="d-none  d-sm-block" style="position: relative; width: 150%; top: -4em; margin-bottom: -2em;" src="../glijbaan.svg">
 <img class="d-block d-sm-none" style="width: 100%;" src="../glijbaan.svg">
 
 # Algemene kenmerken die duiden op beelddenken
