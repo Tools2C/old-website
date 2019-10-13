@@ -28,6 +28,7 @@
   .content h1 {
     display: block;
     text-align: center;
+    font-size: 140%;
   }
   html {
     min-height: 100%;
@@ -47,13 +48,29 @@
   #footer p {
     margin: 0;
   }
+  .sidenote p {
+    color: #b94525;
+    font-size: 120%;
+    font-weight: bold;
+  }
   </style>
 </head>
 <body>
 
-<div class="text-center title" style="margin-bottom:0">
-  <h1>{{ site.title }}</h1>
-  <b>leren door zien</b> 
+<div class="container">
+  <div class="row">
+    <div class="col-sm-12 text-center title">
+      <h1>{{ site.title }}</h1>
+      <b>leren door zien</b> 
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm-3"></div>
+    <div class="col-sm-6 text-center">
+      Individuele begeleiding, training en instructie bij dyslexie, dyscalculie en AD(H)D volgens de Davis® Methode
+    </div>
+    <div class="col-sm-3"></div>
+  </div>
 </div>
 <div class="nav-bg sticky-top">
   <div class="container">
@@ -99,8 +116,14 @@
 
 <div class="container content" style="margin-top:15px">
   <div class="row">
-    <div class="col-sm-12">
+    <div class="col-sm-8">
       {{ content }}
+    </div>
+    <div class="col-sm-4">
+      <div class="sidenote">
+        <img src="../tafels.svg">
+        <p>Mensen die last hebben van dyslexie, zijn vaak extra nieuwsgierig.</p>
+      </div>
     </div>
   </div>
 </div>
