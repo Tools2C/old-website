@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Welkom
-zijkant: tafels.html
+rechts: tafels.html
 ---
 
 # Welkom op de site van Tools2C
@@ -20,9 +20,9 @@ Nieuwsgierig als je bent ga je in je verbeelding op zoek naar een beeld dat de b
 
 Zonder focus komt informatie niet of verkeerd bij je binnen. Veel kans dat je dan fouten gaat maken. Fouten maken, wordt afgestraft en je gaat je minder goed over je zelf voelen.
 
-Om dat gevoel te voorkomen of te vergeten, wordt je de grappenmaker van de klas of vallen er altijd pennen en gummen op de grond als je moet lezen of rekenen of stilzitten.  
+Om dat gevoel te voorkomen of te vergeten, wordt je de grappenmaker van de klas of vallen er altijd pennen en gummen op de grond als je moet lezen of rekenen of stilzitten.
 
-Waar de snelle lezers en rekenaars iets leuks mogen gaan doen, wordt van jou verwacht dat je elke dag extra oefent met taal of rekenen. Je wordt steeds gedwongen om bezig te zijn met iets wat je met alle macht probeert te vermijden. Elke avond met je ouders of tijdens de bijles na school.  
+Waar de snelle lezers en rekenaars iets leuks mogen gaan doen, wordt van jou verwacht dat je elke dag extra oefent met taal of rekenen. Je wordt steeds gedwongen om bezig te zijn met iets wat je met alle macht probeert te vermijden. Elke avond met je ouders of tijdens de bijles na school.
 
 De frustratie bouwt zich op bij je ouders, bij je juf of meester, maar vooral ook bij jezelf.
 

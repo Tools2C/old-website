@@ -1,0 +1,41 @@
+<div class="nav-bg sticky-top">
+  <div class="container">
+    <nav class="navbar navbar-expand-sm navbar-dark">
+      <!-- <a class="navbar-brand" href="#">Navbar</a> -->
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="collapsibleNavbar">
+        <ul class="navbar-nav">
+          {% assign links = site.data.navigation %}
+          {% for link in links %}
+              {% assign class = nil %}
+              {% if page.url contains link.url %}
+                  {% assign class = 'active' %}
+              {% endif %}
+              {% if link.sublinks %}
+                  <li class="navitem dropdown {{ class }}">
+                      <a href="{{ site.url }}{{ site.baseurl }}{{ link.url }}" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{ link.title }} <span class="caret"></span></a>
+                      <ul class="dropdown-menu">
+                          {% for sublink in link.sublinks %}
+                              {% if sublink.title == 'separator' %}
+                                  <li role="separator" class="divider"></li>
+                              {% else %}
+                                  <li>
+                                      <a class="dropdown-item" href="{{ site.url }}{{ site.baseurl }}{{ sublink.url }}">{{ sublink.title }}</a>
+                                  </li>
+                              {% endif %}
+                          {% endfor %}
+                      </ul>
+                  </li>
+              {% else %}
+                  <li class="nav-item {{ class }}">
+                      <a class="nav-link" href="{{ site.url }}{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a>
+                  </li>
+              {% endif %}
+          {% endfor %}
+        </ul>
+      </div>  
+    </nav>
+  </div>
+</div>
