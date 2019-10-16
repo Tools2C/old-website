@@ -144,10 +144,9 @@
       {{ content }}
     </div>
     <div class="col-sm-4">
-      <div class="sidenote">
-        <img src="../tafels.svg">
-        <p>Mensen die last hebben van dyslexie, zijn vaak extra nieuwsgierig.</p>
-      </div>
+      {% if page.zijkant %}
+        {% include {{ page.zijkant }} %}
+      {% endif %}
     </div>
   </div>
 </div>

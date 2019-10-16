@@ -1,39 +1,39 @@
 - title: Home
-  url: /home/
+  url: /home.html
 - title: Astrid
-  url: /astrid/
+  url: /astrid.html
 - title: Davis Counseling
-  url: /counseling/
+  url: /counseling.html
   sublinks:
     - title: Wat is Davis Counseling
-      url: "/counseling/#watisdaviscounseling"
+      url: "/counseling.html#wat_is_davis_counseling"
     - title: Ron Davis
-      url: "/counseling/#rondavis"
+      url: "/counseling.html#ron_davis"
     - title: Uitgangspunten van de Davis-Methodes
-      url: "/counseling/#uitgangspuntenvandedavismethodes"
+      url: "/counseling.html#uitgangspunten_van_de_davis_methodes"
     - title: Davis-technieken
-      url: "/counseling/#davistechnieken"
+      url: "/counseling.html#davistechnieken"
     - title: Van desoriëntatie naar oriëntatie
-      url: "/counseling/#vandesorientatienaarorientatie"
+      url: "/counseling.html#vandesorientatienaarorientatie"
 - title: Dyslexie
-  url: /dyslexie/
+  url: /dyslexie.html
   sublinks:
     - title: Algemene kenmerken
-      url: "/dyslexie/#algemenekenmerken"
+      url: "/dyslexie.html#algemenekenmerken"
     - title: Programma counseling
-      url: "/dyslexie/#programmacounseling"
+      url: "/dyslexie.html#programmacounseling"
     - title: Uitgangspunten van de Davis-Methodes
-      url: "/dyslexie/#uitgangspuntenvandedavismethodes"
+      url: "/dyslexie.html#uitgangspuntenvandedavismethodes"
     - title: Davis-technieken
-      url: "/dyslexie/#davistechnieken"
+      url: "/dyslexie.html#davistechnieken"
     - title: Van desoriëntatie naar oriëntatie
-      url: "/dyslexie/#vandesorientatienaarorientatie"
+      url: "/dyslexie.html#vandesorientatienaarorientatie"
 - title: Dyscalculie
-  url: /dyscalculie/
+  url: /dyscalculie.html
 - title: AD(H)D
-  url: /adhd/
+  url: /adhd.html
 - title: Ervaringen
-  url: /ervaringen/
+  url: /ervaringen.html
 - title: Links
-  url: /links/
+  url: /links.html
 
