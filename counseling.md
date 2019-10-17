@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Davis Counseling
-rechts: niks.html
 ---
 # Wat is Davis Counseling?
 
@@ -15,7 +14,7 @@ Met deze manier van denken kun je je speciale ‘gave van dyslexie’ nog steeds
 
 In de Davis®-counseling leer je technieken om te focussen, ontspannen en je energie te doseren. Deze technieken helpen je om de delen van je hersenen zo goed mogelijk te laten samenwerken. Eenvoudig en snel.
 
-<div class="d-none  d-sm-block" style="position: relative; width: 150%;">
+<div class="d-none  d-sm-block" style="position: relative; width: 150%; display: block; left: -25%;">
   <figure>
     <img src="/assets/orientatie-grijs.svg" style="width: 100%">
     <figcaption>oriëntatie</figcaption>
