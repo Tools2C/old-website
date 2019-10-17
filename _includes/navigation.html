@@ -10,7 +10,8 @@
           {% assign links = site.data.navigation %}
           {% for link in links %}
               {% assign class = nil %}
-              {% if page.url contains link.url %}
+              {% assign linkurl = link.url | split: "#" | first %}
+              {% if page.url contains linkurl  %}
                   {% assign class = 'active' %}
               {% endif %}
               {% if link.sublinks %}

@@ -20,6 +20,11 @@
   padding-top: 80px;
   margin-top: -80px;
 }
+.content a#top {
+  display: block;
+  padding-top: 80px;
+  margin-top: -70px;
+}
 html {
   min-height: 100%;
   position: relative;
@@ -66,4 +71,12 @@ body {
   color: #fff;
   background-color: #b6c7aa;
 }
-
+figure {
+  float: left;
+  width: 33.3333333%;
+  text-align: center;
+  text-indent: 0;
+  margin: 0;
+  padding: 0;
+  margin-bottom: 1.5em;
+}

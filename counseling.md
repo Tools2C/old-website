@@ -15,6 +15,36 @@ Met deze manier van denken kun je je speciale ‘gave van dyslexie’ nog steeds
 
 In de Davis®-counseling leer je technieken om te focussen, ontspannen en je energie te doseren. Deze technieken helpen je om de delen van je hersenen zo goed mogelijk te laten samenwerken. Eenvoudig en snel.
 
+<div class="d-none  d-sm-block" style="position: relative; width: 150%;">
+  <figure>
+    <img src="/assets/orientatie-grijs.svg" style="width: 100%">
+    <figcaption>oriëntatie</figcaption>
+  </figure>
+  <figure>
+    <img src="/assets/loslaten-grijs.svg" style="width: 100%">
+    <figcaption>loslaten</figcaption>
+  </figure>
+  <figure>
+    <img src="/assets/energie-doseren-grijs.svg" style="width: 100%">
+    <figcaption>energie doseren</figcaption>
+  </figure>
+</div>
+<div class="d-block d-sm-none" style="position: relative; width: 100%;">
+  <figure>
+    <img src="/assets/orientatie-grijs.svg" style="width: 100%">
+    <figcaption>oriëntatie</figcaption>
+  </figure>
+  <figure>
+    <img src="/assets/loslaten-grijs.svg" style="width: 100%">
+    <figcaption>loslaten</figcaption>
+  </figure>
+  <figure>
+    <img src="/assets/energie-doseren-grijs.svg" style="width: 100%">
+    <figcaption>energie doseren</figcaption>
+  </figure>
+</div>
+
+
 # Uitgangspunten van de Davis-Methode
 
 Dyslectici hebben over het algemeen grote moeilijkheden met ontastbare of symbolische dingen, zoals letters en/of getallen. Wanneer ze proberen symbolen te begrijpen, worden ze snel verward. 

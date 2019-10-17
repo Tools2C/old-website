@@ -1,7 +1,7 @@
 - title: Home
-  url: /home.html
+  url: /home.html#top
 - title: Astrid
-  url: /astrid.html
+  url: /astrid.html#top
 - title: Davis Counseling
   url: /counseling.html
   sublinks:
