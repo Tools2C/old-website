@@ -19,7 +19,7 @@ Hij heeft zich de Davis-tools eigen gemaakt en doet het heel goed op school.
 Dat is fijn, want schoolresultaten zijn belangrijk, maar ze zijn natuurlijk niet zaligmakend.
 Wat ons echt blij maakt, is dat hij daardoor beter in zijn vel zit, blaakt van zelfvertrouwen en sociaal en emotioneel veel weerbaarder is geworden.
 
-<img style="width: 100%;" src="/assets/bagage.png">
+<img style="width: 100%;" src="/assets/bagage-730.jpg">
 
 Ik vind het een voorrecht om als ouder de ontwikkeling van ons kind van dichtbij mee te maken.
 Als ouder is het onze rol om hem die dingen mee te geven waardoor hij zich in wereld kan redden.
