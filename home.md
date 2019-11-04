@@ -8,7 +8,7 @@ rechts: tafels.html
 
 Je bent hier waarschijnlijk terecht gekomen omdat jij of je kind aanloopt tegen problemen bij taal, rekenen of gedrag. Zoals duizenden mensen van over de hele wereld al hebben mogen ervaren, kan Davis Counseling deze leer- en gedragsproblemen echt voor je oplossen.
 
-Het is een methode die gebruik maakt van jouw sterke kanten, van jouw manier van denken, snel en associatief. Ron Davis zelf de ontwikkelaar van deze methode noemt dat de Gave van Dyslexie.  
+Het is een methode die gebruik maakt van jouw sterke kanten, van jouw manier van denken, snel en associatief. Ron Davis, de ontwikkelaar van deze methode noemt dat de Gave van Dyslexie.  
 
 Wat Davis Counseling bijzonder maakt, is dat het de oorzaak van leer- en gedragsproblemen aanpakt waardoor de symptomen vanzelf verdwijnen. Davis Counseling legt op een liefdevolle en respectvolle manier een stevige basis voor het leren en het leven, waardoor je zelfvertrouwen een boost krijgt en je je beter kunt handhaven in de wereld. 
 
